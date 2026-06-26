@@ -6,7 +6,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 
 ## Dataset
 Titanic Dataset (train_and_test2.csv)
- you can download it from here:https://www.kaggle.com/competitions/titanic/data
+ you can download it from here:https://www.kaggle.com/datasets/yasserh/titanic-dataset
 ## Technologies Used
 - Python
 - Pandas
